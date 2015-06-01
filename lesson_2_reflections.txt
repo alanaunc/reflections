@@ -14,3 +14,9 @@ changes since your last commit.
 How can you use the staging area to make sure you have one commit per logical
 change?
 Explained above. Only commit files related to one change at a time.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches can be helpful if you are making an experimental change, or adding a
+new feature. 
