@@ -10,3 +10,7 @@ The staging area contains files that will be committed to the repository. This
 allows you to selectively commit files from your working directory. It can make
 it easier to commit one logical change at a time if you made multiple logical
 changes since your last commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+Explained above. Only commit files related to one change at a time.
